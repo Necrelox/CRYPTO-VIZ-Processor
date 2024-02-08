@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Necrelox/CRYPTO-VIZ-Processor/compare/v1.0.0...v1.0.1) (2024-02-08)
+
+
+### Bug Fixes
+
+* downgrade python version ([660115f](https://github.com/Necrelox/CRYPTO-VIZ-Processor/commit/660115f1a0e3d23f0328cddaf521e101b80f893c))
+
 ## 1.0.0 (2024-02-02)
 
 
