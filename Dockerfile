@@ -1,4 +1,4 @@
-FROM python:3.12-alpine
+FROM python:3.11-alpine
 WORKDIR /
 RUN apk update --no-cache
 RUN apk add --no-cache gcc build-base python3-dev
