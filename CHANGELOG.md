@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Necrelox/CRYPTO-VIZ-Processor/compare/v1.0.1...v1.1.0) (2024-02-12)
+
+
+### Features
+
+* add ticker + improvement of code ([98227da](https://github.com/Necrelox/CRYPTO-VIZ-Processor/commit/98227da2cc0700115595a293065d8e69b27c9858))
+
 ## [1.0.1](https://github.com/Necrelox/CRYPTO-VIZ-Processor/compare/v1.0.0...v1.0.1) (2024-02-08)
 
 
