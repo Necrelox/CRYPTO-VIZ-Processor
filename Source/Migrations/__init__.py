@@ -1,2 +1,2 @@
 from .IMigration import IMigration
-from .CreateCandleStickTable import CreateCandleStickTable
+from .CreateDataTable import CreateDataTable
