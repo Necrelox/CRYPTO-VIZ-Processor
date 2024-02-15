@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/Necrelox/CRYPTO-VIZ-Processor/compare/v1.1.1...v1.1.2) (2024-02-15)
+
+
+### Bug Fixes
+
+* correction of dockerfile ([998dc74](https://github.com/Necrelox/CRYPTO-VIZ-Processor/commit/998dc7446eda72fd6d003080154df81fb0719a41))
+
 ## [1.1.1](https://github.com/Necrelox/CRYPTO-VIZ-Processor/compare/v1.1.0...v1.1.1) (2024-02-15)
 
 
