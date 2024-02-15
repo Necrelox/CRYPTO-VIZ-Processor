@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/Necrelox/CRYPTO-VIZ-Processor/compare/v1.1.2...v1.1.3) (2024-02-15)
+
+
+### Bug Fixes
+
+* er ([a1b0566](https://github.com/Necrelox/CRYPTO-VIZ-Processor/commit/a1b0566028b460b2d168714b80a263bb72b62a5a))
+
 ## [1.1.2](https://github.com/Necrelox/CRYPTO-VIZ-Processor/compare/v1.1.1...v1.1.2) (2024-02-15)
 
 
