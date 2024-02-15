@@ -3,14 +3,14 @@ import os
 import clickhouse_connect
 from dotenv import load_dotenv
 
-from Migrations import CreateCandleStickTable
+from Migrations import CreateDataTable
 
 
 class Database:
     __instance = None
     __client = None
     __migrations = [
-        CreateCandleStickTable,
+        CreateDataTable,
     ]
 
     @staticmethod
